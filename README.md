@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo la gestión de reservas de actividades y la cr
 ### Descargar el Proyecto:
 Para comenzar, descarga el archivo ZIP correspondiente a este repositorio.
 ### Descargar la base de datos:
-Descarga el [sql](Mmargar001/tfg_martin/edit/master)
+Descarga el [sql](https://github.com/Mmargar001/tfg_martin/blob/master/Base_datos_proyecto.sql)
 ### Configuración de la Base de Datos:
 En el archivo de configuración de la base de datos (conexion), ajusta el puerto de conexión para que coincida con la configuración de tu servidor local o de producción.
 Requisitos previos: Asegúrate de tener un servidor que soporte PHP y una base de datos MySQL o MariaDB para poder ejecutar el sistema correctamente.
