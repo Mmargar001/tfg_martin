@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo la gestión de reservas de actividades y la cr
 
 ## Instrucciones de Instalación
 ### Descargar el Proyecto:
-Para comenzar, descarga el archivo [ZIP](https://github.com/Mmargar001/tfg_martin/blob/master/proyecto.zip) correspondiente a este repositorio.
+Para comenzar, descarga el archivo [ZIP](https://github.com/Mmargar001/tfg_martin/blob/master/proyecto.rar) correspondiente a este repositorio.
 ### Descargar la base de datos:
 Descarga el [sql](https://github.com/Mmargar001/tfg_martin/blob/master/Base_datos_proyecto.sql)
 ### Configuración de la Base de Datos:
